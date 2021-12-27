@@ -1,6 +1,9 @@
 # slider_emoji
 
-A new Flutter application.
+Animated Emoji Slider
+<div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/147500201-908316f2-d5fb-4872-97cc-b3bb424c2766.gif" width="1080" height="850">
+  </div>
 
 ## Getting Started
 
